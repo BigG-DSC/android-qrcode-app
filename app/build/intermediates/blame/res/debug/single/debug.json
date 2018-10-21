@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/layout_forgotpassword_layout.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/layout/forgotpassword_layout.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_user.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/user.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable-v24_user.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable-v24/user.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_right_enter.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/right_enter.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/layout_activity_access.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/layout/activity_access.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_shake.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_left_enter.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/left_enter.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/xml_text_selector.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/xml/text_selector.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/layout_login_layout.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/layout/login_layout.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_left_out.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/left_out.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/layout_custom_toast.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/layout/custom_toast.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/layout_activity_welcome.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_right_out.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_error.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/error.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable_welcome_background.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable/welcome_background.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/anim_cycle.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_close.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/close.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/drawable-v24_password.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/drawable-v24/password.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_password.png.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-mdpi/password.png"
+    },
+    {
+        "merged": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
