@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="eitdigital.big.brigtheyedapp.Welcome_Activity"
+            android:name=".access.Welcome_Activity"
             android:theme="@style/AppTheme.NoActionBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +19,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="eitdigital.big.brigtheyedapp.Access_Activity"
-            android:theme="@style/AppTheme.NoActionBar.Fullscreen"></activity>
+            android:name=".access.Access_Activity"
+            android:theme="@style/AppTheme.NoActionBar.Fullscreen" />
+        <activity
+            android:name=".doctor.DashboardDoctor_Activity"
+            android:label="@string/title_activity_dashboard_doctor_" />
+        <activity
+            android:name=".patient.DashboardPatient_Activity"
+            android:label="@string/title_activity_dashboard_patient_"></activity>
     </application>
 
 </manifest>

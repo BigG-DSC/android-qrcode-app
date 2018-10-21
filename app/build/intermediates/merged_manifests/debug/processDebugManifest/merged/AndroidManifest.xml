@@ -15,9 +15,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="eitdigital.big.brigtheyedapp.Welcome_Activity"
+            android:name="eitdigital.big.brigtheyedapp.access.Welcome_Activity"
             android:theme="@style/AppTheme.NoActionBar.Fullscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,8 +27,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="eitdigital.big.brigtheyedapp.Access_Activity"
+            android:name="eitdigital.big.brigtheyedapp.access.Access_Activity"
             android:theme="@style/AppTheme.NoActionBar.Fullscreen" />
+        <activity
+            android:name="eitdigital.big.brigtheyedapp.doctor.DashboardDoctor_Activity"
+            android:label="@string/title_activity_dashboard_doctor_" />
+        <activity
+            android:name="eitdigital.big.brigtheyedapp.patient.DashboardPatient_Activity"
+            android:label="@string/title_activity_dashboard_patient_" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>
