@@ -1,0 +1,4 @@
+#Sun Oct 21 17:47:54 CEST 2018
+base.0=/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
