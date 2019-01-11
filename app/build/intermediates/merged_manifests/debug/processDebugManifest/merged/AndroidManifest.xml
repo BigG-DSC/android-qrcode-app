@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eitdigital.big.brigtheyed"
+    package="eitdigital.big.brighteyedapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -18,7 +22,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="eitdigital.big.brigtheyedapp.access.Welcome_Activity"
+            android:name="eitdigital.big.brighteyedapp.access.Welcome_Activity"
             android:theme="@style/AppTheme.NoActionBar.Fullscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,21 +31,33 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="eitdigital.big.brigtheyedapp.access.Access_Activity"
+            android:name="eitdigital.big.brighteyedapp.access.Access_Activity"
+            android:label="@string/title_activity_dashboard_doctors"
             android:theme="@style/AppTheme.NoActionBar.Fullscreen" />
         <activity
-            android:name="eitdigital.big.brigtheyedapp.doctor.DashboardDoctor_Activity"
-            android:label="@string/title_activity_dashboard_doctor_" />
+            android:name="eitdigital.big.brighteyedapp.doctors.DashboardDoctors_Activity"
+            android:label="@string/title_activity_dashboard_doctors"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="eitdigital.big.brigtheyedapp.patient.DashboardPatient_Activity"
-            android:label="@string/title_activity_dashboard_patient_" />
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.1.0" />
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
+            android:name="eitdigital.big.brighteyedapp.doctors.Generator_Activity"
+            android:label="QRCode Generator"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="eitdigital.big.brighteyedapp.doctors.Logout_Activity"
+            android:label="Logout"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="eitdigital.big.brighteyedapp.patients.DashboardPatients_Activity"
+            android:label="@string/title_activity_dashboard_doctors"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="eitdigital.big.brighteyedapp.patients.Reader_Activity"
+            android:label="QRCode Reader"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="eitdigital.big.brighteyedapp.patients.Logout_Activity"
+            android:label="Logout"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

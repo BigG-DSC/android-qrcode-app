@@ -1,16 +1,35 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gioelebigini/SourceTree/BrightEYEdApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/gioelebigini/Desktop/BrightEYEdApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/gioelebigini/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4561433bdb8940b0f6dd74d647a1eee7/res/values-v16/values-v16.xml",
+                    "source": "/Users/gioelebigini/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b9be7a59b8abdbc86dff2487b1a8f076/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/gioelebigini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/daa42763b2f980ed84ac06b53b52a8a4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]

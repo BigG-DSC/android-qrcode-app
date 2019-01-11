@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eitdigital.big.brigtheyedapp">
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eitdigital.big.brighteyedapp">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -20,13 +24,32 @@
         </activity>
         <activity
             android:name=".access.Access_Activity"
-            android:theme="@style/AppTheme.NoActionBar.Fullscreen" />
+            android:label="@string/title_activity_dashboard_doctors"
+            android:theme="@style/AppTheme.NoActionBar.Fullscreen"/>
         <activity
-            android:name=".doctor.DashboardDoctor_Activity"
-            android:label="@string/title_activity_dashboard_doctor_" />
+            android:name=".doctors.DashboardDoctors_Activity"
+            android:label="@string/title_activity_dashboard_doctors"
+            android:theme="@style/AppTheme.NoActionBar"/>
         <activity
-            android:name=".patient.DashboardPatient_Activity"
-            android:label="@string/title_activity_dashboard_patient_"></activity>
+            android:name=".doctors.Generator_Activity"
+            android:label="QRCode Generator"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".doctors.Logout_Activity"
+            android:label="Logout"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".patients.DashboardPatients_Activity"
+            android:label="@string/title_activity_dashboard_doctors"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".patients.Reader_Activity"
+            android:label="QRCode Reader"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".patients.Logout_Activity"
+            android:label="Logout"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>
